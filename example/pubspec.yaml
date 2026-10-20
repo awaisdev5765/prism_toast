@@ -1,0 +1,15 @@
+name: prism_toast_example
+description: Demo app for prism_toast.
+publish_to: none
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  prism_toast:
+    path: ..
+
+flutter:
+  uses-material-design: true
